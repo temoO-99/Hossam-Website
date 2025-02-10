@@ -102,7 +102,7 @@ body {
 @media screen and (max-width: 450px) {
   body {
     background: linear-gradient(to bottom, #56ccf4, #bdddec);
-    height: 400px;
+    height: 100%;
   }
   .head {
     font-size: 20px;
